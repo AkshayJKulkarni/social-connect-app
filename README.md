@@ -1,73 +1,42 @@
-# Welcome to your Lovable project
+# Professional Networking App
 
-## Project info
+## Project Overview
+This project is a professional networking app aimed at connecting individuals, sharing job posts, and building profiles. The app provides features like user authentication, personalized profiles, job postings, and networking opportunities for professionals.
 
-**URL**: https://lovable.dev/projects/a72481cc-58f9-408f-8898-e8ef5026ecd8
+Built as part of the [Hackathon Name], this app is designed to create a seamless experience for users looking to expand their professional connections and opportunities.
 
-## How can I edit this code?
+### Key Features:
+- **User Authentication:** Secure login and signup process.
+- **User Profiles:** Personalized profiles where users can add details like skills, experience, and interests.
+- **Job Postings:** Companies or individuals can post job opportunities for others to view and apply.
+- **Networking:** Users can connect with others, send messages, and grow their professional network.
+- **Search Functionality:** Easy search for professionals or job opportunities based on various criteria.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a72481cc-58f9-408f-8898-e8ef5026ecd8) and start prompting.
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js (for handling API requests) - if applicable
+- **Database:** MongoDB (or any preferred database solution)
+- **Authentication:** JWT (JSON Web Tokens) for secure login and user authentication
+- **Deployment:** Vercel (or any cloud provider like Heroku)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Deployed on Vercel
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This project has been deployed using Vercel and is accessible through the following link:  
+[**Live Demo**]soft-connect-network-mh551r1u5-akshay-j-kulkarnis-projects.vercel.app
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## Setup Instructions
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 1. Clone the Repository
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Clone this repository to your local machine:
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+git clone https://github.com/your-username/professional-networking-app.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a72481cc-58f9-408f-8898-e8ef5026ecd8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
